@@ -4,9 +4,10 @@ Game design for Final Signtasy, a pixel 2D game top-down.
 ## Acknowledgement
 I would like to express my gratitude to the following website support to our game assets project:
 
-- [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
-- [Itch.io](https://itch.io/)
-- [Kamus SIBI from Kemdikbud](https://pmpk.kemdikbud.go.id/sibi)
-- [SIBI and BISINDO images](https://www.klobility.id/post/perbedaan-bisindo-dan-sibi)
+- top down game reference [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
+- font [Humble Fonts Free]((https://somepx.itch.io/humble-fonts-free))
+- wallpaper [RythmicSpark]((https://wall.alphacoders.com/big.php?i=705836))
+- SIBI Language [Kamus SIBI from Kemdikbud]([https://pmpk.kemdikbud.go.id/sibi](https://www.ypedulikasihabk.org/2018/11/09/mengenal-bahasa-isyarat/))
+- music from itch.io [SIBI and BISINDO images](https://www.klobility.id/post/perbedaan-bisindo-dan-sibi)
 
 Special thanks to everyone who has helped and supported this project!
