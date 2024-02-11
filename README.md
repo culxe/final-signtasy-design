@@ -6,7 +6,7 @@ I would like to express my gratitude to the following website support to our gam
 
 - top down game reference [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
 - font [Humble Fonts Free](https://somepx.itch.io/humble-fonts-free)
-- wallpaper [RythmicSpark](ttps://wall.alphacoders.com/big.php?i=705836)
+- wallpaper [RythmicSpark](https://wall.alphacoders.com/big.php?i=705836)
 - SIBI Language [Kamus SIBI from Kemdikbud](https://www.ypedulikasihabk.org/2018/11/09/mengenal-bahasa-isyarat/)
 - music from itch.io [SIBI and BISINDO images](https://www.klobility.id/post/perbedaan-bisindo-dan-sibi)
 
