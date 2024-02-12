@@ -8,6 +8,6 @@ I would like to express my gratitude to the following website support to our gam
 - font [Humble Fonts Free](https://somepx.itch.io/humble-fonts-free)
 - wallpaper [RythmicSpark](https://wall.alphacoders.com/big.php?i=705836)
 - SIBI Language [Kamus SIBI from Kemdikbud](https://www.ypedulikasihabk.org/2018/11/09/mengenal-bahasa-isyarat/)
-- music from itch.io [SIBI and BISINDO images](https://www.klobility.id/post/perbedaan-bisindo-dan-sibi)
+- music from itch.io
 
 Special thanks to everyone who has helped and supported this project!
