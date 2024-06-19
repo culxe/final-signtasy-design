@@ -12,4 +12,4 @@ I would like to express my gratitude to the following website support to our gam
 
 Special thanks to everyone who has helped and supported this project!
 
-![alt text](https://github.com/[culxe]/[final-signtasy-design]/blob/[main]/FINAL%SIGNTASY%SIGN%LANGUAGE%GAME.jpg?raw=true)
+![alt text](https://github.com/[culxe]/[final-signtasy-design]/blob/[main]/FINALSIGNTASYSIGNLANGUAGEGAME.jpg?raw=true)
