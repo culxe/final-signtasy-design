@@ -1,7 +1,7 @@
 # Final Signtasy: Sign Language Game 
 Game design for Final Signtasy, a pixel 2D game top-down.
 ## Overview
-<img src="/FINALSIGNTASYSIGNLANGUAGEGAME.jpg" alt="Alt text" width="500"/>
+<img src="/FINAL SIGNTASY SIGN LANGUAGE GAME.jpg" alt="Alt text" width="500"/>
 
 ## User Interface 
 <img src="/all design/finalsigntasy-ui.jpg" alt="Alt text" width="500"/>
