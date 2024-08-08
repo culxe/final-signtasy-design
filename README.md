@@ -2,6 +2,7 @@
 
 ## Overview
 Final Signtasy is a 2D pixel art game designed in a top-down perspective, focusing on promoting and educating players about SIBI (Indonesian Sign Language System). The project involved extensive evaluations conducted by multiple lecturers and was showcased at the Computer Engineering Exhibition.
+
 <img src="/FINAL SIGNTASY SIGN LANGUAGE GAME.jpg" alt="Alt text" width="800"/>
 
 ## Game Design
