@@ -14,12 +14,12 @@ The user interface was carefully designed to ensure a seamless and intuitive exp
 ### Game Maps
 The game maps were created with a deep consideration of real-world environments, making it easier for players to relate to the settings and understand the contexts in which certain sign languages might be used. By reflecting familiar surroundings, players can more effectively connect with the material and apply their learning in everyday situations.
 
-<img src="/all design/finalsigntasy-maps.jpg" alt="Alt text" width="800"/>
+<img src="/all design/finalsigntasy-map.jpg" alt="Alt text" width="800"/>
 
 ### Entities
 Entities within the game, including characters and objects, were designed with a focus on realism and relevance to the environments portrayed. This approach ensures that players not only learn sign language but also understand how these signs are used in relation to everyday objects and interactions, further enhancing the educational value of the game.
 
-<img src="/all design/fnialsigntasy-objects.jpg" alt="Alt text" width="500"/>
+<img src="/all design/fnialsigntasy-objects.jpg" alt="Alt text" width="800"/>
 
 ## Acknowledgement
 I would like to express my gratitude to the following website support to our game assets project:
