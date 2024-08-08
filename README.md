@@ -4,7 +4,7 @@ Game design for Final Signtasy, a pixel 2D game top-down.
 <img src="/FINALSIGNTASYSIGNLANGUAGEGAME.jpg" alt="Alt text" width="500"/>
 
 ## User Interface 
-<img src="/all_design/finalsigntasy-ui.jpg" alt="Alt text" width="500"/>
+<img src="/all design/finalsigntasy-ui.jpg" alt="Alt text" width="500"/>
 
 ## Acknowledgement
 I would like to express my gratitude to the following website support to our game assets project:
