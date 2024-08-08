@@ -1,15 +1,19 @@
 # Final Signtasy: Sign Language Game 
-Game design for Final Signtasy, a pixel 2D game top-down.
+Designed a 2D pixel game top-down with Aseprite. Designed: UI/UX, Character and object, maps game. Involves a series of evaluations conducted by multiple lecturers and also showcase that project in Computer Engineering Exhibition.
+
 ## Overview
+This is about Final Signtasy game, using SIBI (Indonesian Sign Language System) as sign language.
 <img src="/FINAL SIGNTASY SIGN LANGUAGE GAME.jpg" alt="Alt text" width="500"/>
 
-## User Interface 
+## Game Design
+There are user interface, game maps, and entity designed
+### User Interface 
 <img src="/all design/finalsigntasy-ui.jpg" alt="Alt text" width="500"/>
 
-## Game Maps
+### Game Maps
 <img src="/all design/finalsigntasy-ui.jpg" alt="Alt text" width="500"/>
 
-## Entity
+### Entity
 <img src="/all design/fnialsigntasy-objects.jpg" alt="Alt text" width="500"/>
 
 ## Acknowledgement
